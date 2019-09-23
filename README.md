@@ -18,4 +18,4 @@ Generates method's descriptions based on the property description.
 Add 1 comand to vscode's command palette:
 
 Insert Generate Getters and Setters.
-Insert Generate Getters and Setters arrow methods for typescript
+**Insert Generate Getters and Setters Arrow methods for typescript**
